@@ -11,7 +11,7 @@ int main(){
     float jumlah=0;
     float banyak_data;
 	double bilangan_bilangan;
-	float rata_rata;
+	double rata_rata;
     
     //input
     cout<<"Masukkan Jumlah Bilangan :" ; cin>>banyak_data ;
