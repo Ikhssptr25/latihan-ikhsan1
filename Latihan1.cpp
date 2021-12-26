@@ -10,7 +10,7 @@ int main(){
     int i=0;
     double jumlah=0;
     float banyak_data;
-	double bilangan_bilangan;
+    double bilangan_bilangan;
 	double rata_rata;
     
     //input
