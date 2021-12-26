@@ -8,7 +8,7 @@ int main(){
 	  
 	//deklarasi variabel//  
     int i=0;
-    double jumlah=0;
+     double jumlah=0;
     double banyak_data;
     double bilangan_bilangan;
     double rata_rata;
